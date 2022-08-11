@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="Boostrap4/bootstrap.min.css">
+    <link rel="stylesheet" href="Boostrap4\bootstrap.min.css">
     <script src="Boostrap4/bootstrap.min.js"></script>
     <script src="Boostrap4/popper.min.js"></script>
 </head>
