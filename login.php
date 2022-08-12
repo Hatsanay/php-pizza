@@ -9,6 +9,14 @@
     <script src="Boostrap4/bootstrap.min.js"></script>
     <script src="Boostrap4/popper.min.js"></script>
 </head>
+        <style>
+            body {
+                background-color: #1e7e34;
+            }
+            .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+                color: #fff;
+            }
+        </style>
 <body>
     <div class="comtianer">
         <div class="row">

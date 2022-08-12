@@ -11,7 +11,6 @@
 <?php
     include "navbar.php";
     include "components\product\product-index.php";
-    include "components\product\product-pizza.php";
  ?>
 </body>
 </html>

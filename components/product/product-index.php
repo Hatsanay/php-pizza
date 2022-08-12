@@ -58,5 +58,52 @@
         </div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-md-3">
+        <div class="card">
+            <img class="card-img-top" src="images\p5.webp" alt="Card image" >
+            <div class="card-body">
+                <h4 class="card-title">โฟร์ชีสทองคำ</h4>
+                <p class="card-text">เบคอนรมควัน, อเมริกันชีส, เอมเมนทอลชีส, แดรี่ วอลเลย์...</p>
+                <h3>฿359.00</h3>
+                <a href="#" class="btn btn-primary">สั่งซื้อ</a>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-3">
+        <div class="card">
+            <img class="card-img-top" src="images\p6.webp" alt="Card image" style="width:94%;">
+            <div class="card-body">
+            <h4 class="card-title">ซุปเปอร์เดอลุกซ์</h4>
+                <p class="card-text">แฮม, เบคอน, เป๊ปเปอโรนี, ไส้กรอกรมควัน, ไส้กรอกอิตา...</p>
+                <h3>฿319.00</h3>
+                <a href="#" class="btn btn-primary">สั่งซื้อ</a>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-3">
+        <div class="card">
+            <img class="card-img-top" src="images\p7.webp" alt="Card image" style="width:94%;">
+            <div class="card-body">
+                <h4 class="card-title">ไก่สามรส</h4>
+                <p class="card-text">ไก่บาร์บีคิว, ไก่เนยกระเทียม, ไก่อบซอส, เห็ด, พริกแดง พริก...</p>
+                <h3>฿359.00</h3>
+                <a href="#" class="btn btn-primary">สั่งซื้อ</a>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-3">
+        <div class="card">
+            <img class="card-img-top" src="images\p8.webp" alt="Card image" style="width:94%;">
+            <div class="card-body">
+                <h4 class="card-title">ฮาวายเอี้ยน</h4>
+                <p class="card-text">แฮม, เบคอน, สับปะรด และซอสพิซซ่า</p>
+                <h3>฿359.00</h3>
+                <a href="#" class="btn btn-primary">สั่งซื้อ</a>
+            </div>
+        </div>
+        </div>
+    </div>
 </div>
 </html>
